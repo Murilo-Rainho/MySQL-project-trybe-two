@@ -9,5 +9,5 @@
 
 ---
 
-[Esse foi o repositório do meu projeto.](https://github.com/tryber/sd-013-a-mysql-vocabulary-booster)
+[This is my project rep.](https://github.com/tryber/sd-013-a-mysql-vocabulary-booster)
 My branch: murilo-rainho-vocabulary-booster
